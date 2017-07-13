@@ -1,4 +1,4 @@
-package helpers;
+package ru.sbt.http.helpers;
 
 import com.jayway.restassured.response.Response;
 
